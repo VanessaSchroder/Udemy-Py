@@ -1,4 +1,4 @@
-# 🐍 Curso & Jornada em Python  
+# 🐍 Curso & Jornada em Python.  
 
 📌 Repositório criado para acompanhar minha evolução no **Python**.  
 
